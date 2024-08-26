@@ -1,0 +1,33 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "林七湖的日记站",
+      "url": "https://blog.linqihu.top/",
+      "avatar": "https://pic.imgdb.cn/item/66cc1debd9c307b7e93098d8.png",
+      "screenshot": "",
+      "description": "这是什么？好吃的？吃一口"
+    },
+    {
+      "title": "单项式的笔记本",
+      "url": "https://www.bcmonomial.xyz/",
+      "avatar": "https://www.bcmonomial.xyz/images/xyy_current.png",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "Arthal's ink",
+      "url": "https://arthals.ink/",
+      "avatar": "https://cdn.arthals.ink/Arthals-mcskin.png",
+      "screenshot": "",
+      "description": "何惧生死长无，一往前无。"
+    },
+    {
+      "title": "尘末的云端小站",
+      "url": "https://cmoms.top/",
+      "avatar": "https://cravatar.cn/avatar/3a67db0dcbf21d5ffebf557ecc0b1f9a?d=mp&s=80",
+      "screenshot": "",
+      "description": ""
+    }
+  ]
+}
