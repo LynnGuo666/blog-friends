@@ -1,0 +1,75 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "Ethan",
+      "url": "https://hanlife02.com.cn/",
+      "avatar": "https://hanlife02.com.cn/api/v2/objects/avatar/evcvs61h0ajgvoai07.jpeg",
+      "screenshot": "",
+      "description": "Don't stay awake for too long."
+    },
+    {
+      "title": "Last Blog",
+      "url": "https://blog.imlast.top",
+      "avatar": "https://s2.loli.net/2024/01/08/aUYMZQjVfqLJTnr.jpg",
+      "screenshot": "https://s2.loli.net/2023/12/31/w1enXSJz2tCQj64.png",
+      "description": "Void of myself"
+    },
+    {
+      "title": "张洪Heo",
+      "url": "https://blog.zhheo.com/",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
+      "screenshot": "",
+      "description": "分享设计与科技生活"
+    },
+    {
+      "title": "Ghost_chu‘s Blog’",
+      "url": "https://www.ghostchu.com/",
+      "avatar": "https://cdn.ghostchu.com/halo-ghostchu-blog/avatar.jpg",
+      "screenshot": "",
+      "description": "『保持初心』大概是这个时代最大的难题"
+    },
+    {
+      "title": "Magma Ink",
+      "url": "https://magma.ink/",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=823202450&s=640",
+      "screenshot": "",
+      "description": "为美好的生活献礼"
+    },
+    {
+      "title": "晨暮群岛 Crepuscular Archipelago",
+      "url": "https://443eb9.dev/",
+      "avatar": "https://ghp.ci/raw.githubusercontent.com/443eb9/443eb9/main/avatar.webp",
+      "screenshot": "",
+      "description": "不为人知的岛屿群，欢迎来玩~ (▽｀)"
+    },
+    {
+      "title": "林七湖的日记站",
+      "url": "https://blog.linqihu.top/",
+      "avatar": "https://pic.imgdb.cn/item/66cc1debd9c307b7e93098d8.png",
+      "screenshot": "",
+      "description": "这是什么？好吃的？吃一口"
+    },
+    {
+      "title": "单项式的笔记本",
+      "url": "https://www.bcmonomial.xyz/",
+      "avatar": "https://www.bcmonomial.xyz/images/xyy_current.png",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "Arthal's ink",
+      "url": "https://arthals.ink/",
+      "avatar": "https://cdn.arthals.ink/Arthals-mcskin.png",
+      "screenshot": "",
+      "description": "何惧生死长无，一往前无。"
+    },
+    {
+      "title": "尘末的云端小站",
+      "url": "https://cmoms.top/",
+      "avatar": "https://cravatar.cn/avatar/3a67db0dcbf21d5ffebf557ecc0b1f9a?d=mp&s=80",
+      "screenshot": "",
+      "description": ""
+    }
+  ]
+}
